@@ -1,0 +1,15 @@
+﻿{
+  "CognitiveServicesKeys": {
+    "Vision": "f963e6d29a734daab0d52ffdcab616d2"
+  },
+  "AzureStorage": {
+    "ConnectionString": "DefaultEndpointsProtocol=https;AccountName=cunchu;AccountKey=NSYUUJrOPZZpftnqQvF9gmEH5ddvbSS9afHxIxbWQeTU/XXiNOz21c3XHKvPwFndt2Kq6AAL6A5YbxoaFGUqBw==;EndpointSuffix=core.windows.net",
+    "BlobContainer": "images"
+  },
+  "CosmosDB": {
+    "EndpointURI": "https://cosmos-00.documents.azure.com:443/",
+    "Key": "J4qp97F55ncqZHhknA1NFaWs35UEKH1ixCwmg1m6UMsTH6fGzORcjvCmYBK5lFxMXGAaFbSGBZmDIMjWA3nALA==",
+    "DatabaseName": "images",
+    "CollectionName": "metadata"
+  }
+}
